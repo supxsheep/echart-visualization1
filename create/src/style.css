@@ -1,0 +1,29 @@
+:root {
+  background-color: #242424;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.small-size {
+  font-size: 12px;
+}
+
+.large-size {
+  font-size: 26px;
+}
+.weight{
+  font-weight: 700;
+}
